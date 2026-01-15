@@ -7,7 +7,7 @@ The project demonstrates foundational data science skills including data preproc
 The dataset used in this project is a synthetic customer transaction dataset sourced from an open-access data repository. The data is anonymised and does not contain any real personal or sensitive customer information.
 
 Dataset characteristics
-Number of records: 50,000
+Number of records: 50,000 
 Data type: Structured tabular data (CSV format)
 Nature: Synthetic / simulated transaction data
 
