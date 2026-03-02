@@ -53,17 +53,17 @@ These steps ensured that the dataset was consistent, reliable, and ready for ana
   Certain categories such as Electronics, Travel, and Clothing contribute a larger proportion of total spending.
   Spending behaviour varies significantly across categories, highlighting opportunities for customer segmentation and targeted financial services.
   
-  5.3 Merchant-Level Analysis
+   5.3 Merchant-Level Analysis
   Merchant aggregation showed:
   A limited number of merchants account for a significant share of total transaction value.
   This concentration could be useful for merchant risk assessment, partnership evaluation, or fraud monitoring in a banking environment.
   
-  5.4 Time-Based Trends
+   5.4 Time-Based Trends
   Monthly aggregation of transaction values demonstrated:
   Clear time-based variations in spending behaviour.
   Potential seasonal trends that could be explored further using predictive modelling or forecasting techniques.
   
-  5.5 Demographic-Level Analysis
+   5.5 Demographic-Level Analysis
   Gender-based analysis was conducted at an aggregated level only:
   Small differences were observed in average transaction amounts.
   These results were interpreted cautiously to avoid demographic bias or individual profiling.
