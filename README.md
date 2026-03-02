@@ -5,10 +5,10 @@ The project demonstrates foundational data science skills including data preproc
 
 2. Dataset Description
 The dataset used in this project is a synthetic customer transaction dataset sourced from an open-access data repository. The data is anonymised and does not contain any real personal or sensitive customer information.
-Dataset characteristics
-Number of records: 50,000 
-Data type: Structured tabular data (CSV format)
-Nature: Synthetic / simulated transaction data
+   Dataset characteristics
+   Number of records: 50,000 
+   Data type: Structured tabular data (CSV format)
+   Nature: Synthetic / simulated transaction data
 Key attributes
 customer_id – Unique identifier for each customer
 name, surname – Customer name fields (synthetic)
@@ -20,7 +20,7 @@ merchant_name – Merchant where transaction occurred
 category – Transaction category (e.g. Travel, Electronics, Clothing)
 The dataset structure closely resembles real-world retail banking transaction logs, making it suitable for analytical practice while remaining ethically safe to use.
 
-3. Tools and Technologies
+4. Tools and Technologies
 The analysis was conducted using the following tools:
 Python 3.13
 Pandas – data manipulation and preprocessing
@@ -29,7 +29,7 @@ Matplotlib & Seaborn – data visualisation
 VS Code – development environment
 These tools are widely used in industry for data analysis and financial analytics.
 
-4. Data Preprocessing and Cleaning
+5. Data Preprocessing and Cleaning
 Before analysis, the dataset required cleaning and standardisation to ensure data quality.
 Key preprocessing steps
 Standardised column names by converting them to lowercase and replacing spaces with underscores.
@@ -40,7 +40,7 @@ Removed records with missing critical values such as transaction date or transac
 Filtered out invalid transactions with negative transaction values.
 These steps ensured that the dataset was consistent, reliable, and ready for analysis.
 
-5. Exploratory Data Analysis (EDA)
+6. Exploratory Data Analysis (EDA)
 
    5.1 Transaction Amount Distribution
   Analysis of transaction amounts showed that:
@@ -68,7 +68,7 @@ These steps ensured that the dataset was consistent, reliable, and ready for ana
   Small differences were observed in average transaction amounts.
   These results were interpreted cautiously to avoid demographic bias or individual profiling.
 
-6. Ethical Considerations
+7. Ethical Considerations
 Ethical responsibility was maintained throughout the project:
 The dataset used was synthetic and anonymised, ensuring no real individuals could be identified.
 Analysis focused on aggregated trends rather than individual-level behaviour.
@@ -76,11 +76,11 @@ Demographic attributes were used carefully and responsibly.
 Findings were framed to avoid overgeneralisation or biased conclusions.
 Ethical data handling is especially important in financial services, and this project reflects that awareness.
 
-7. Conclusion
+8. Conclusion
 This project demonstrates how customer transaction data can be effectively cleaned, explored, and analysed using Python to generate meaningful insights in a banking context. Through structured preprocessing, exploratory analysis, and visualisation, the project highlights patterns in spending behaviour, category trends, merchant concentration, and time-based variation.
 Beyond technical implementation, the project emphasises clear communication of insights and responsible data use. Together, these elements reflect a strong foundational skill set in data analysis and demonstrate readiness to apply data science techniques within real-world financial environments.
 
-8. References
+9. References
 McKinney, W. (2018). Python for Data Analysis. O’Reilly Media.
 Pandas Documentation: https://pandas.pydata.org/docs/
 Matplotlib Documentation: https://matplotlib.org/stable/index.html
