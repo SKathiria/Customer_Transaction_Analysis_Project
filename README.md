@@ -91,7 +91,11 @@
 8. References
 
     McKinney, W. (2018). Python for Data Analysis. O’Reilly Media.
+   
     Pandas Documentation: https://pandas.pydata.org/docs/
+   
     Matplotlib Documentation: https://matplotlib.org/stable/index.html
-    Seaborn Documentation: https://seaborn.pydata.org/
+   
+    Seaborn Documentation: https://seaborn.pydata.org
+   
     Synthetic transaction dataset sourced from an open-access data repository (e.g. Kaggle).
