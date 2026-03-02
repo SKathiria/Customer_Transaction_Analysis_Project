@@ -5,20 +5,22 @@ The project demonstrates foundational data science skills including data preproc
 
 2. Dataset Description
 The dataset used in this project is a synthetic customer transaction dataset sourced from an open-access data repository. The data is anonymised and does not contain any real personal or sensitive customer information.
+
    Dataset characteristics
-   Number of records: 50,000 
+   Number of records: 50,000
    Data type: Structured tabular data (CSV format)
    Nature: Synthetic / simulated transaction data
-Key attributes
-customer_id – Unique identifier for each customer
-name, surname – Customer name fields (synthetic)
-gender – Customer gender (contains missing values)
-birthdate – Customer date of birth
-transaction_amount – Monetary value of each transaction
-date – Date of transaction
-merchant_name – Merchant where transaction occurred
-category – Transaction category (e.g. Travel, Electronics, Clothing)
-The dataset structure closely resembles real-world retail banking transaction logs, making it suitable for analytical practice while remaining ethically safe to use.
+
+   Key attributes
+   customer_id – Unique identifier for each customer
+   name, surname – Customer name fields (synthetic)
+   gender – Customer gender (contains missing values)
+   birthdate – Customer date of birth
+   transaction_amount – Monetary value of each transaction
+   date – Date of transaction
+   merchant_name – Merchant where transaction occurred
+   category – Transaction category (e.g. Travel, Electronics, Clothing)
+   The dataset structure closely resembles real-world retail banking transaction logs, making it suitable for analytical practice while remaining ethically safe     to use.
 
 4. Tools and Technologies
 The analysis was conducted using the following tools:
@@ -42,28 +44,28 @@ These steps ensured that the dataset was consistent, reliable, and ready for ana
 
 6. Exploratory Data Analysis (EDA)
 
-   5.1 Transaction Amount Distribution
+   6.1 Transaction Amount Distribution
   Analysis of transaction amounts showed that:
   Most ransactions fall within a low to medium value range.
   A small number of high-value transactions act as outliers.
   This distribution reflects typical consumer banking behaviour, where frequent small purchases dominate transaction volume.
 
-   5.2 Category-Based Spending Analysis
+   6.2 Category-Based Spending Analysis
   Aggregated analysis by transaction category revealed:
   Certain categories such as Electronics, Travel, and Clothing contribute a larger proportion of total spending.
   Spending behaviour varies significantly across categories, highlighting opportunities for customer segmentation and targeted financial services.
   
-   5.3 Merchant-Level Analysis
+   6.3 Merchant-Level Analysis
   Merchant aggregation showed:
   A limited number of merchants account for a significant share of total transaction value.
   This concentration could be useful for merchant risk assessment, partnership evaluation, or fraud monitoring in a banking environment.
   
-   5.4 Time-Based Trends
+   6.4 Time-Based Trends
   Monthly aggregation of transaction values demonstrated:
   Clear time-based variations in spending behaviour.
   Potential seasonal trends that could be explored further using predictive modelling or forecasting techniques.
   
-   5.5 Demographic-Level Analysis
+   6.5 Demographic-Level Analysis
   Gender-based analysis was conducted at an aggregated level only:
   Small differences were observed in average transaction amounts.
   These results were interpreted cautiously to avoid demographic bias or individual profiling.
