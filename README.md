@@ -48,7 +48,7 @@ These steps ensured that the dataset was consistent, reliable, and ready for ana
   A small number of high-value transactions act as outliers.
   This distribution reflects typical consumer banking behaviour, where frequent small purchases dominate transaction volume.
 
-  5.2 Category-Based Spending Analysis
+   5.2 Category-Based Spending Analysis
   Aggregated analysis by transaction category revealed:
   Certain categories such as Electronics, Travel, and Clothing contribute a larger proportion of total spending.
   Spending behaviour varies significantly across categories, highlighting opportunities for customer segmentation and targeted financial services.
