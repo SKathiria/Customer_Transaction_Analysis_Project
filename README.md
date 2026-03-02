@@ -1,9 +1,10 @@
 1. Introduction
-Data plays a central role in modern banking, enabling organisations to understand customer behaviour, manage risk, and support informed decision-making. Financial institutions routinely analyse transaction data to identify spending patterns, monitor trends, and improve services while ensuring ethical and responsible use of customer information.
-This project focuses on performing Exploratory Data Analysis (EDA) on a customer transaction dataset using Python. The objective is to clean and analyse transaction data, identify meaningful patterns, and present insights that are relevant to a retail banking context.
-The project demonstrates foundational data science skills including data preprocessing, analysis, visualisation, and ethical awareness, all of which are essential for real-world financial analytics roles.
 
-2. Dataset Description
+    Data plays a central role in modern banking, enabling organisations to understand customer behaviour, manage risk, and support informed decision-making.          Financial institutions routinely analyse transaction data to identify spending patterns, monitor trends, and improve services while ensuring ethical and          responsible use of customer information.
+    This project focuses on performing Exploratory Data Analysis (EDA) on a customer transaction dataset using Python. The objective is to clean and analyse          transaction data, identify meaningful patterns, and present insights that are relevant to a retail banking context.
+    The project demonstrates foundational data science skills including data preprocessing, analysis, visualisation, and ethical awareness, all of which are          essential for real-world financial analytics roles.
+
+3. Dataset Description
 The dataset used in this project is a synthetic customer transaction dataset sourced from an open-access data repository. The data is anonymised and does not contain any real personal or sensitive customer information.
 
    Dataset characteristics
