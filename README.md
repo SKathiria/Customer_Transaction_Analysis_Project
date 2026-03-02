@@ -44,31 +44,31 @@ These steps ensured that the dataset was consistent, reliable, and ready for ana
 
 5. Exploratory Data Analysis (EDA)
 
-5.1 Transaction Amount Distribution
-Analysis of transaction amounts showed that:
-Most ransactions fall within a low to medium value range.
-A small number of high-value transactions act as outliers.
-This distribution reflects typical consumer banking behaviour, where frequent small purchases dominate transaction volume.
+  5.1 Transaction Amount Distribution
+  Analysis of transaction amounts showed that:
+  Most ransactions fall within a low to medium value range.
+  A small number of high-value transactions act as outliers.
+  This distribution reflects typical consumer banking behaviour, where frequent small purchases dominate transaction volume.
 
-5.2 Category-Based Spending Analysis
-Aggregated analysis by transaction category revealed:
-Certain categories such as Electronics, Travel, and Clothing contribute a larger proportion of total spending.
-Spending behaviour varies significantly across categories, highlighting opportunities for customer segmentation and targeted financial services.
-
-5.3 Merchant-Level Analysis
-Merchant aggregation showed:
-A limited number of merchants account for a significant share of total transaction value.
-This concentration could be useful for merchant risk assessment, partnership evaluation, or fraud monitoring in a banking environment.
-
-5.4 Time-Based Trends
-Monthly aggregation of transaction values demonstrated:
-Clear time-based variations in spending behaviour.
-Potential seasonal trends that could be explored further using predictive modelling or forecasting techniques.
-
-5.5 Demographic-Level Analysis
-Gender-based analysis was conducted at an aggregated level only:
-Small differences were observed in average transaction amounts.
-These results were interpreted cautiously to avoid demographic bias or individual profiling.
+  5.2 Category-Based Spending Analysis
+  Aggregated analysis by transaction category revealed:
+  Certain categories such as Electronics, Travel, and Clothing contribute a larger proportion of total spending.
+  Spending behaviour varies significantly across categories, highlighting opportunities for customer segmentation and targeted financial services.
+  
+  5.3 Merchant-Level Analysis
+  Merchant aggregation showed:
+  A limited number of merchants account for a significant share of total transaction value.
+  This concentration could be useful for merchant risk assessment, partnership evaluation, or fraud monitoring in a banking environment.
+  
+  5.4 Time-Based Trends
+  Monthly aggregation of transaction values demonstrated:
+  Clear time-based variations in spending behaviour.
+  Potential seasonal trends that could be explored further using predictive modelling or forecasting techniques.
+  
+  5.5 Demographic-Level Analysis
+  Gender-based analysis was conducted at an aggregated level only:
+  Small differences were observed in average transaction amounts.
+  These results were interpreted cautiously to avoid demographic bias or individual profiling.
 
 6. Ethical Considerations
 Ethical responsibility was maintained throughout the project:
