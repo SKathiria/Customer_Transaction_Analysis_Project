@@ -5,12 +5,10 @@ The project demonstrates foundational data science skills including data preproc
 
 2. Dataset Description
 The dataset used in this project is a synthetic customer transaction dataset sourced from an open-access data repository. The data is anonymised and does not contain any real personal or sensitive customer information.
-
 Dataset characteristics
 Number of records: 50,000 
 Data type: Structured tabular data (CSV format)
 Nature: Synthetic / simulated transaction data
-
 Key attributes
 customer_id – Unique identifier for each customer
 name, surname – Customer name fields (synthetic)
@@ -43,7 +41,6 @@ Filtered out invalid transactions with negative transaction values.
 These steps ensured that the dataset was consistent, reliable, and ready for analysis.
 
 5. Exploratory Data Analysis (EDA)
-
   5.1 Transaction Amount Distribution
   Analysis of transaction amounts showed that:
   Most ransactions fall within a low to medium value range.
