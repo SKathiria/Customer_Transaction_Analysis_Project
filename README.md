@@ -71,6 +71,7 @@ These steps ensured that the dataset was consistent, reliable, and ready for ana
   These results were interpreted cautiously to avoid demographic bias or individual profiling.
 
 7. Ethical Considerations
+
 Ethical responsibility was maintained throughout the project:
 The dataset used was synthetic and anonymised, ensuring no real individuals could be identified.
 Analysis focused on aggregated trends rather than individual-level behaviour.
