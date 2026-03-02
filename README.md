@@ -41,7 +41,8 @@ Filtered out invalid transactions with negative transaction values.
 These steps ensured that the dataset was consistent, reliable, and ready for analysis.
 
 5. Exploratory Data Analysis (EDA)
-  5.1 Transaction Amount Distribution
+
+   5.1 Transaction Amount Distribution
   Analysis of transaction amounts showed that:
   Most ransactions fall within a low to medium value range.
   A small number of high-value transactions act as outliers.
